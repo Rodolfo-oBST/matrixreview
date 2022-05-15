@@ -1,0 +1,17 @@
+footer{
+    color: rgb(7, 192, 7);
+    background-color: black;
+    font-family: "JetBrains Mono", sans-serif;
+}
+h1{
+    text-align: center;
+    border: 1px solid rgb(7, 192, 7);
+}
+#Sec{
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: center;
+}
+a{
+    color: rgb(7, 192, 7);
+}
